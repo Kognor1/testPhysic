@@ -1,0 +1,3 @@
+[submodule "petroflow/batchflow"]
+	path = petroflow/batchflow
+	url = https://github.com/analysiscenter/batchflow.git
